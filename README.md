@@ -22,13 +22,11 @@ Inicialmente, o projeto tem apenas um modelo de PDF com campos específicos que 
 # 🚧Futuras melhorias:
 
  - Funcionalidades: <br><br>
- 
    - Salvar um backup do PDF criado pelo úsuario. <br>
    - Cadastrar Clientes. <br>
    - Cadastrar Produtos. <br>
    - Cadastro e login de úsuario. <br>
 
 - Modificações no sitte:<br><br>
-
   - Deixar o site responsivo. <br>
   - Opção de modo escuro. <br>
